@@ -2,9 +2,8 @@
 
 ### Live streaming to YouTube, Twitch!
 
-Best choice for you just starting streaming!  
+Best choice for start streaming with ezcap H/W!  
 [ezcap Live download page](https://github.com/ezcapLive/ezcap-Live/releases).  
-
 
 #### ezcap H/W
 
