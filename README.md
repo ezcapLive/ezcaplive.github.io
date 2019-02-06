@@ -10,7 +10,7 @@ Best choice for start streaming with ezcap H/W!
 Capture HD video up to 1080!  
 USB 3.0 fastest speed, capture up yo 1080 60fps full HD.  
 UVC standard, no driver required, works with most of 3rd party application software.  
-Live video streaming fot YouTube, Twitch, Facebook...  
+Live video streaming for YouTube, Twitch, Facebook...  
 
 For more product details see [ezcap site](http://www.ezcap.com).  
 
