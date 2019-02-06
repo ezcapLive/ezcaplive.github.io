@@ -18,3 +18,5 @@ For more product details see [ezcap site](http://www.ezcap.com).
 
 Having trouble with S/W? Check out our [documentation](https://github.com/ezcapLive/User-Guide) or  
 Any problem with H/W? [contact support](http://www.ezcap.com/article_list_122.html) and we’ll help you sort it out.
+
+https://user-images.githubusercontent.com/45815862/52339854-94e0f880-2a51-11e9-8de4-621882d0fc46.png
