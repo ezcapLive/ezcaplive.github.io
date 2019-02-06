@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to ezcap Live Page
 
-You can use the [editor on GitHub](https://github.com/ezcapLive/ezcaplive.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Game live HD streaming S/W to YouTube, Twitch!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### ezcap H/W
 
-### Markdown
+Capture HD video up to 1080!
+USB 3.0 fastest speed, capture up yo 1080 60fps full HD. 
+UVC standard, no driver required, works with most of 3rd party application software.
+Live video streaming fot YouTube, Twitch, Facebook...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For more product details see [ezcap site](http://www.ezcap.com/).
 
-```markdown
-Syntax highlighted code block
+#### User Guide
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ezcapLive/ezcaplive.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with S/W? Check out our [documentation](https://github.com/ezcapLive/User-Guide/) or 
+Any problem with H/W? [contact support](http://www.ezcap.com/article_list_122.html) and we’ll help you sort it out.
