@@ -1,6 +1,9 @@
 ## Welcome to ezcap Live Page
 
-### Game live HD streaming S/W to YouTube, Twitch!
+### Live streaming to YouTube, Twitch!
+
+Easy to use
+Best choice for you just starting streaming!
 
 #### ezcap H/W
 
