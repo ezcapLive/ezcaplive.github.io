@@ -12,7 +12,7 @@ USB 3.0 fastest speed, capture up yo 1080 60fps full HD.
 UVC standard, no driver required, works with most of 3rd party application software.  
 Live video streaming for YouTube, Twitch, Facebook...  
 
-<img src="http://www.ezcap.com/index.php?ac=public&at=zoom&filename=upfile%2F2017%2F09%2F14%2F20170914091812_668.jpg&w=971&h=335&iszoom=1" width="91%">
+<img src="https://github.com/ezcapLive/ezcaplive.github.io/blob/master/ezcap_wardware.jpg" width="91%">
 
 For more product details see [ezcap site](http://www.ezcap.com).  
 
