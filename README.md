@@ -5,6 +5,8 @@
 Best choice for start streaming with ezcap H/W!  
 [ezcap Live download page](https://github.com/ezcapLive/ezcap-Live/releases).  
 
+CD-Key : EZCL2-V0061-11A56-20691-CCA1N
+
 #### ezcap H/W
 
 Capture HD video up to 1080!  
